@@ -16,3 +16,9 @@ Example (Bench Press):
 
 `numpy`
 `matplotlib`
+
+## Notes
+
+There may be language dependent things hardcoded into this that have to be changed.
+
+For example: `Övning, ` and `Datum` that could be different if the language anything other than Swedish.
